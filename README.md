@@ -22,7 +22,7 @@
 - 🎓 Recent graduate from a full stack developer bootcamp with Boolean UK
 - 🔍 Currently looking for roles as a Junior Developer
 - 🔭 I’m currently working on my portfolio website!
-- 🌱 I’m currently learning Vue.js and Typescript
+- 🌱 I’m planning and currently learning Typescript and Vue.js
 
 <hr>
 
