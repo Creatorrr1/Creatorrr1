@@ -62,7 +62,10 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creatorrr1&layout=compact&theme=tokyonight)](https://github.com/creatorrr1/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creatorrr1&layout=compact&theme=tokyonight"/>
+</div>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creatorrr1&layout=compact&theme=tokyonight)](https://github.com/creatorrr1/github-readme-stats) -->
 
 <hr>
 
