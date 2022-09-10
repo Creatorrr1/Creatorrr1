@@ -1,7 +1,7 @@
 ###
 
 ###
-<h1>
+<h1 align="center">
   <b>Hi there I'm Mubarak Musse. Welcome to my Github!</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -22,7 +22,10 @@
 <br/>
 
 <!-- [![creatorrr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=creatorrr1)](https://github.com/creatorrr1/github-readme-stats) -->
-![creatorrr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=creatorrr1&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=creatorrr1&show_icons=true&theme=tokyonight"/>
+</div>
+<!-- ![creatorrr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=creatorrr1&show_icons=true&theme=tokyonight) -->
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creatorrr1&layout=compact&theme=tokyonight)](https://github.com/creatorrr1/github-readme-stats) -->
 
 <hr>
