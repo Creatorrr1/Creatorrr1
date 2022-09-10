@@ -22,9 +22,7 @@
 <br/>
 
 <!-- [![creatorrr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=creatorrr1)](https://github.com/creatorrr1/github-readme-stats) -->
-<div align="center">
 ![creatorrr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=creatorrr1&show_icons=true&theme=tokyonight)
-</div>
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creatorrr1&layout=compact&theme=tokyonight)](https://github.com/creatorrr1/github-readme-stats) -->
 
 <hr>
