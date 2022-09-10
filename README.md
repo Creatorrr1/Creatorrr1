@@ -1,12 +1,12 @@
 ###
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-###
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+###
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div> -->
 <h1>
   <b>Hi there I'm Mubarak Musse. Welcome to my Github!</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -25,9 +25,7 @@
 
 <!-- [![creatorrr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=creatorrr1)](https://github.com/creatorrr1/github-readme-stats) -->
 
-![creatorrr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=creatorrr1&show_icons=true&theme=tokyonight)  <div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+![creatorrr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=creatorrr1&show_icons=true&theme=tokyonight)
 
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creatorrr1&layout=compact&theme=tokyonight)](https://github.com/creatorrr1/github-readme-stats) -->
 
