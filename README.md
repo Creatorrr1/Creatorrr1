@@ -27,7 +27,8 @@
 </div>
 <!-- ![creatorrr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=creatorrr1&show_icons=true&theme=tokyonight) -->
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creatorrr1&layout=compact&theme=tokyonight)](https://github.com/creatorrr1/github-readme-stats) -->
-<hr>
+<hr/>
+
 ### About Me:
 
 - 🎓 Recent graduate from a full stack developer bootcamp with Boolean UK
@@ -35,10 +36,10 @@
 - 🔭 I’m currently working on my portfolio website!
 - 🌱 I’m planning and currently learning Typescript and Vue.js
 
-<hr>
+<hr/>
 
 ### Languages and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<!-- <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/> 
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -49,19 +50,21 @@
 <img align="left" width="26px" height="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="margin-bottom:10px;"/>
 <img align="left" width="26px" height="26px" src="https://user-images.githubusercontent.com/90321114/185269483-7cf8f2bb-0b55-4002-ab11-9cb2060232ea.png"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /> -->
 
 <!--[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,javascript,react,nodejs,prisma,express,postgres,git,github)](https://skills.thijs.gg) -->
-
+<div align="center">
+<img src="https://skills.thijs.gg/icons?i=html,css,scss,ts,javascript,react,nodejs,prisma,express,postgres,dynamodb,mongodb,heroku,git,github"/>
+</div>
 <br/>
 <br/>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creatorrr1&layout=compact&theme=tokyonight"/>
 </div>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creatorrr1&layout=compact&theme=tokyonight)](https://github.com/creatorrr1/github-readme-stats) -->
 
-<hr>
+<hr/>
 
 ### Let's Connect
 
@@ -69,7 +72,7 @@
      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></img>
 <a/>
 
-<hr>
+<hr/>
 
 ### My Troopl site
 
