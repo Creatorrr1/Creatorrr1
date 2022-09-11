@@ -13,27 +13,21 @@
 </div>
 -->
 <hr/>
-
 <!-- ### Hi there I'm Mubarak Musse. Welcome to my Github! 👋 -->
-
 <!--
 **Creatorrr1/Creatorrr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - ⚡ Fun fact: ...
 - 📫 How to reach me: ...
 -->
-
 <br/>
-
 <!-- [![creatorrr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=creatorrr1)](https://github.com/creatorrr1/github-readme-stats) -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=creatorrr1&show_icons=true&theme=tokyonight"/>
 </div>
 <!-- ![creatorrr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=creatorrr1&show_icons=true&theme=tokyonight) -->
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creatorrr1&layout=compact&theme=tokyonight)](https://github.com/creatorrr1/github-readme-stats) -->
-
 <hr>
-
 ### About Me:
 
 - 🎓 Recent graduate from a full stack developer bootcamp with Boolean UK
@@ -62,7 +56,7 @@
 <br/>
 <br/>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creatorrr1&layout=compact&theme=tokyonight"/>
 </div>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creatorrr1&layout=compact&theme=tokyonight)](https://github.com/creatorrr1/github-readme-stats) -->
