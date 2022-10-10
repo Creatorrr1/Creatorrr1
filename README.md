@@ -5,7 +5,7 @@
   <b>Hi there I'm Mubarak Musse. Welcome to my Github!</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
+<div align="centr">
 <img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" height="350px" width="600px"/>
 </div>
 <!-- <div align="center">
