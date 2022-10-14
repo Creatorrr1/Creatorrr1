@@ -1,7 +1,7 @@
 ###
 
 ###
-<h1 align="centr">
+<h1 align="center">
   <b>Hi there I'm Mubarak Musse. Welcome to my Github!</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
