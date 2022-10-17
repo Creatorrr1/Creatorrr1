@@ -77,5 +77,5 @@
 ### My Troopl site
 
 <a href="https://troopl.com/sir_absolute">
-<img width="100" height="50" src="https://troopl.com/packs/media/svg/troopl_logo-8ad5996b.svg" class="logo-img" style="margin-left=10px" alt="Troopl logo">
+<img width="100" height="50" color="white" src="https://troopl.com/packs/media/svg/troopl_logo-8ad5996b.svg" class="logo-img" style="margin-left=10px" alt="Troopl logo">
 <a/>
