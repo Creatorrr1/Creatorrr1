@@ -13,7 +13,7 @@
 </div>
 -->
 <hr/>
-<!-- ### Hi there I'm Mubarak Musse. Welcome to my Github! 👋 -->
+### Hi there I'm Mubarak Musse. Welcome to my Github! 👋
 <!--
 **Creatorrr1/Creatorrr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
