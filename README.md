@@ -53,9 +53,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /> -->
 
 <!--[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,javascript,react,nodejs,prisma,express,postgres,git,github)](https://skills.thijs.gg) -->
-<div align="center">
-<img src="https://skills.thijs.gg/icons?i=html,css,scss,ts,javascript,react,nodejs,prisma,express,postgres,dynamodb,mongodb,heroku,git,github"/>
-</div>
+<!-- <img src="https://skills.thijs.gg/icons?i=html,css,scss,ts,javascript,react,nodejs,prisma,express,postgres,dynamodb,mongodb,heroku,git,github"/> -->
+<img align="right" src="https://user-images.githubusercontent.com/72984740/207438416-f283e595-2c87-40b0-a68e-5d0c5493d088.gif" width="40%" />
+
+
 <br/>
 <br/>
 
