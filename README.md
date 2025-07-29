@@ -68,7 +68,7 @@
 
 ### Let's Connect
 
-<a href="https://www.linkedin.com/in/mubarak-musse-117263236/">
+<a href="https://www.linkedin.com/in/m-muse-117263236/">
      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></img>
 <a/>
 
