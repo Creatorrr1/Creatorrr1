@@ -31,7 +31,7 @@
 
 ### About Me:
 
-- 🎓 Finance Student and a full stack developer graduate from Boolean UK
+- 🎓 Finance Student and a full stack developer graduate
 - 🔍 Currently looking for roles as a Junior Developer
 - 🔭 I’m currently working on my portfolio site!
 - 🌱 I’m planning and currently learning Typescript and Vue.js
